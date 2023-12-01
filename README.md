@@ -1,0 +1,1 @@
+# Hello! This is my first ever GITHUB project. Made in 01/12/2023. Java course!
